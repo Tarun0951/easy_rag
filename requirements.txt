@@ -1,0 +1,6 @@
+openai>=0.28.0
+chromadb>=0.3.0
+faiss-cpu>=1.7.0
+google-generativeai
+transformers>=4.0.0
+torch>=1.0.0
