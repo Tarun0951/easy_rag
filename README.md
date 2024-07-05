@@ -16,4 +16,4 @@ EasyRAG is a Python library that simplifies the implementation of Retrieval-Augm
 ## Installation
 
 ```bash
-pip install easy-rag
+pip install easy_rag
