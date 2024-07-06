@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="easy_rag_llm",
+    name="easy_rag",
     version="0.1.2",
     author="Tarun Baswa",
     author_email="tarunbaswa9059@gmail.com",
