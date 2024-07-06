@@ -5,8 +5,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="easy_rag",
-    version="0.1.1",
+    name="easy_rag_llm",
+    version="0.1.2",
     author="Tarun Baswa",
     author_email="tarunbaswa9059@gmail.com",
     description="A simple and secure RAG framework to rag any LLM model with ease.",
