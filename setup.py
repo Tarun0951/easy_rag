@@ -12,7 +12,7 @@ setup(
     description="A simple and secure RAG framework to rag any LLM model with ease.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Tarun0951/easy-rag",
+    url="https://github.com/Tarun0951/any-rag",
     packages=find_packages(),
     classifiers=[
         
