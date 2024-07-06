@@ -15,7 +15,8 @@ setup(
     url="https://github.com/Tarun0951/easy-rag",
     packages=find_packages(),
     classifiers=[
-        "Development Status :: 3 - Alpha",
+        
+       
         "Intended Audience :: Developers",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
