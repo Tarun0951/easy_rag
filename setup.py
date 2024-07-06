@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="any-rag",
-    version="0.1.0",
+    version="0.1.1",
     author="Tarun Baswa",
     author_email="tarunbaswa9059@gmail.com",
     description="A simple and secure RAG framework to rag any LLM model with ease.",
