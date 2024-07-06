@@ -5,14 +5,14 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="any-rag",
+    name="easy_rag",
     version="0.1.1",
     author="Tarun Baswa",
     author_email="tarunbaswa9059@gmail.com",
     description="A simple and secure RAG framework to rag any LLM model with ease.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Tarun0951/any-rag",
+    url="https://github.com/Tarun0951/easy_rag",
     packages=find_packages(),
     classifiers=[
         
